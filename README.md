@@ -4,4 +4,4 @@ Getting required links from website and store it in links.csv file ( Just for ed
 
 ###  Installation
 `npm install`
-`npm start`
+`node index.js`
